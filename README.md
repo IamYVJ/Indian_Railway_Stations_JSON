@@ -1,4 +1,4 @@
-# Indian_Railway-Stations-JSON
+# Indian_Railway_Stations_JSON
 This repository contains a JSON File of all Railway Stations in India
 
 <p>The JSON file has the following fields:</p>
