@@ -21,3 +21,4 @@ This repository contains a JSON File of all Railway Stations in India
   <br>
 </p>
         
+The JSON list contains the details for 4,603 stations accross India.
